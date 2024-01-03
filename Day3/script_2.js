@@ -1,5 +1,4 @@
-3.print all countries names, regions,sub-region and populations:
-================================================================
+//3.print all countries names, regions,sub-region and populations:
 
 var request = new XMLHttpRequest();
 request.open("GET","https://restcountries.com/v3.1/all");
